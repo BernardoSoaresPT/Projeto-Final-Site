@@ -80,7 +80,7 @@
           >
             <p>{generator.name}s: {generator.n}</p>
             <p class="text-clip">
-              Cost: {generator.cost *
+              Cost: {generator.cost +
                 (generator.costMultiplyer * (generator.n + 1))}
             </p>
           </button>

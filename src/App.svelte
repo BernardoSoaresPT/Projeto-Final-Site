@@ -86,6 +86,7 @@
           </button>
         </div>
       {/each}
+      <div><p class="text-2xl text-sky-800">Click the cat to get money and waste it on upgrades for more money!!!!</p></div>
     </div>
     </div>
 </main>
